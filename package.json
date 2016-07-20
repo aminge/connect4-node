@@ -1,0 +1,14 @@
+{
+  "name": "node-connect4",
+  "version": "1.0.0",
+  "description": "Version of Connect 4 using node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/app.js"
+  },
+  "author": "Alex Minge",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.1.0"
+  }
+}
